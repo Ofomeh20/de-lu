@@ -1,0 +1,72 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box
+}
+body {
+    padding-top: 56px; /* Add padding to avoid content overlap with fixed navbar */
+}
+
+.navbar {
+    background-color: #007bff; /* Custom background color */
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important; /* Custom text color */
+}
+
+.nav-link.active {
+    font-weight: bold; /* Bold the active link */
+}
+/* styles.css */
+body {
+    padding-top: 56px; /* Add padding to avoid content overlap with fixed navbar */
+}
+
+.navbar {
+    background-color: #007bff; /* Custom background color */
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important; /* Custom text color */
+}
+
+.nav-link.active {
+    font-weight: bold; /* Bold the active link */
+}
+
+.rounded-pill{
+	width:100px;
+}
+
+    html,
+    body {
+      position: relative;
+      height: 100%;
+    }
+
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 1400px;
+	  height:700px;
+    }
+  .
